@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 07]
+
+- Análisis a modo de conclusión sobre el trabajo realizado, la calidad de los datos y los patrones de infracción.
+- Propuesta de un schema y validaciones para mejorar la captura de datos.
+- Creación del archivo `port_log/reports/conclusion.md`.
+
 ## [Ejercicio 06]
 
 - Cálculo del porcentaje de infracciones con fecha inválida.
