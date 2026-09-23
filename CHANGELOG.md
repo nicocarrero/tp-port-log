@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 04]
+
+- Creación de la clase `PortAnalyzer`.
+- Implementación de métodos para analizar infracciones por matrícula, turno, exceso de velocidad, muelle y tipo de carga.
+- Creación del objeto `PortAnalyzer` e invocación de sus métodos.
+
 ## [Ejercicio 03]
 
 - Normalización de fechas y horas (y transformación a datetime).
