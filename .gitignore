@@ -1,0 +1,6 @@
+# Google Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
