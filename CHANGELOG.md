@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Ejercicio 06]
+
+- Cálculo del porcentaje de infracciones con fecha inválida.
+- Cálculo del porcentaje de infracciones con hora inválida.
+- Identificación del tipo de carga más frecuente.
+- Identificación del origen más frecuente de los buques infractores.
+- Cálculo de la duración promedio de estadía en muelle.
+
 ## [Ejercicio 05]
 
 - Creación de gráficos para el análisis de las infracciones.
