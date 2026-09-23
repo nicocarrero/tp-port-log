@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [Ejercicio 05]
+
+- Creación de gráficos para el análisis de las infracciones.
+- Gráfico del top 10 de matrículas más reincidentes.
+- Gráfico de infracciones por turno.
+- Gráfico de infracciones por mes.
+- Histograma y curva KDE del exceso de velocidad real.
+- Gráfico del exceso de velocidad promedio por muelle.
+- Gráfico de fechas válidas e inválidas.
+- Exportación de los gráficos en formato JPG.
+
 ## [Ejercicio 04]
 
 - Creación de la clase `PortAnalyzer`.
