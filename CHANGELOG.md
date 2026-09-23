@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [Ejercicio 03]
+
+- Normalización de fechas y horas (y transformación a datetime).
+- Cálculo de la duración horas entre ingreso y egreso.
+- Normalización de matrículas y muelles.
+- Eliminación de registros con nulos en columnas críticas.
+- Detección y eliminación de outliers mediante IQR.
+- Cálculo del exceso de velocidad real y con tolerancia (5%).
+- Eliminación de registros sin infracción.
+- Guardado del dataset limpio y del resumen estadístico.
+
 ## [Ejercicio 02]
 - Descarga y almacenamiento del dataset en `data/raw/port_movements.csv`.
 - Análisis de los tipos de datos.
