@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [Ejercicio 01]
+
+- Creación de la rama Sprint_2 a partir de Sprint_1.
+- Descarga y descompresión del dataset de imágenes en `port_log/data/raw/imgs`.
+- Verificación de los archivos del Sprint 1.
+- Conteo de registros de los datasets verificados.
+- Actualización del README.md
+---
+
+# Sprint 1
+
+
 ## [Ejercicio 07]
 
 - Análisis a modo de conclusión sobre el trabajo realizado, la calidad de los datos y los patrones de infracción.
