@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [Ejercicio 03]
+
+- Conversión de las imágenes a escala de grises.
+- Aplicación de ecualización adaptativa de histograma mediante CLAHE.
+- Aplicación de suavizado gaussiano.
+- Detección de bordes mediante Canny.
+- Visualización de muestras de cada etapa del preprocesamiento.
+- Guardado de las imágenes procesadas en `port_log/data/interim/imgs`.
+
 ## [Ejercicio 02]
 
 - Listado de las imágenes disponibles y sus tamaños.
