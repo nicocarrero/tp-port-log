@@ -1,5 +1,13 @@
 # CHANGELOG
 
+# Sprint 2
+
+
+## [Ejercicio 06]
+
+- Redacción de la conclusión sobre los datos tabulares y las imágenes.
+- Guardado de la conclusión en port_log/reports/conclusion_sprint_2.md
+
 ## [Ejercicio 05]
 
 - Cálculo de infracciones con y sin imagen asociada.
