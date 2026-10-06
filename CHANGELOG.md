@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [Ejercicio 04]
+
+- Instalación y configuración de EasyOCR para la extracción de matrículas.
+- Extracción de matrículas a partir de las imágenes suavizadas.
+- Normalización y matching de matrículas con un umbral del 75%.
+- Comparación del rendimiento del OCR en cada etapa de preprocesamiento.
+- Diagnóstico de las imágenes sin match (originales y suavizadas).
+- Incorporación de la matrícula detectada y los datos del matching.
+- Actualización de `group_images.json` con `matricula_imagen`.
+- Generación de `port_movements_image.csv` con las imágenes asociadas.
+
 ## [Ejercicio 03]
 
 - Conversión de las imágenes a escala de grises.
