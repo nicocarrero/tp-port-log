@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Ejercicio 05]
+
+- Cálculo de infracciones con y sin imagen asociada.
+- Cálculo de imágenes sin match en el dataset.
+- Cálculo del ratio promedio de coincidencia de los matches.
+- Comparación de la tasa de match entre los grupos `plates` y `completes`.
+- Cálculo de infracciones en estado `PENDIENTE` sin evidencia visual.
+
 ## [Ejercicio 04]
 
 - Instalación y configuración de EasyOCR para la extracción de matrículas.
