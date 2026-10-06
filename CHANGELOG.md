@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Ejercicio 02]
+
+- Listado de las imágenes disponibles y sus tamaños.
+- Separación de las imágenes en los grupos `plates` y `completes`.
+- Creación y guardado de `group_images.json` con información de las imágenes.
+- Cálculo de resolución, área y tamaño promedio por grupo.
+- Creación de la función `mostrar_muestra` para visualizar cada grupo.
+
 ## [Ejercicio 01]
 
 - Creación de la rama Sprint_2 a partir de Sprint_1.
