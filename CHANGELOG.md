@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [Ejercicio 08]
+
+- Función `buscar_buque_por_imagen`: búsqueda por similitud visual en ChromaDB y recuperación del buque, sus movimientos y evidencias desde la base relacional.
+- Validación con imágenes `complete` y `plate`, documentando la limitación de estas últimas.
+
 ## [Ejercicio 07]
 
 - Creación de la base vectorial `buque_vectorial` con ChromaDB y OpenCLIP.
