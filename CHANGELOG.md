@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [Ejercicio 09]
+
+- Redacción de la conclusión integradora del trabajo completo (3 sprints).
+- Actualización del README.md con el Sprint 3.
+
 ## [Ejercicio 08]
 
 - Función `buscar_buque_por_imagen`: búsqueda por similitud visual en ChromaDB y recuperación del buque, sus movimientos y evidencias desde la base relacional.
