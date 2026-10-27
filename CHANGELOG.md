@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [Ejercicio 03]
+
+- Diseño del modelo lógico (Buque, Radar, Muelle, Movimiento y Evidencia) con diagrama entidad-relación y cardinalidades.
+
 ## [Ejercicio 02]
 
 - Inicialización de DVC y configuración de Supabase como remote S3.
