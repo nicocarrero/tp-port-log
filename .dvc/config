@@ -1,0 +1,6 @@
+[core]
+    remote = supabase
+['remote "supabase"']
+    url = s3://port-log-dvc/dvc-store
+    endpointurl = https://zfataxlhdcgomifzrqvl.storage.supabase.co/storage/v1/s3
+    region = us-east-1

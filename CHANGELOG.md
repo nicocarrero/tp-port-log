@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [Ejercicio 02]
+
+- Inicialización de DVC y configuración de Supabase como remote S3.
+- Migración a DVC de las imágenes de `port_log/data/raw/imgs`.
+- Migración a DVC de los gráficos de `port_log/data/interim/plots`.
+- Versionado con DVC de `port_log/data/processed/port_movements_image.csv`.
+
 ## [Ejercicio 01]
 
 - Creación de la rama `Sprint_3` a partir de `Sprint_2`.
