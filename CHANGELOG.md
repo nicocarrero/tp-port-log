@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 05]
+
+- Conexión a la base de datos PostgreSQL de Supabase con SQLAlchemy y creación automática de las tablas con `Base.metadata.create_all`.
+- Migración de los datos de `port_movements_image.csv` con `procesar_fila_csv`.
+- Validación de la cantidad de registros insertados en cada tabla.
+
 ## [Ejercicio 04]
 
 - Implementación del modelo relacional con SQLAlchemy: Buque, Radar, Muelle, Movimiento y Evidencia.
