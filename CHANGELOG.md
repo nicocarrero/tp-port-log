@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 06]
+
+- Consultas con SQLAlchemy sobre los modelos.
+- Top 10 de buques con más infracciones y top 10 de movimientos recientes sin evidencia.
+- Radares más activos, reincidentes por período, exceso promedio por muelle y cobertura de evidencia.
+
 ## [Ejercicio 05]
 
 - Conexión a la base de datos PostgreSQL de Supabase con SQLAlchemy y creación automática de las tablas con `Base.metadata.create_all`.
