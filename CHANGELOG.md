@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [Ejercicio 01]
+
+- Creación de la rama `Sprint_3` a partir de `Sprint_2`.
+- Verificación del acceso a los datasets de sprints anteriores, mostrando la cantidad de registros y la fecha de última modificación de cada uno.
+---
+
+
 # Sprint 2
 
 
