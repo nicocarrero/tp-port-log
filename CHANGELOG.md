@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 07]
+
+- Creación de la base vectorial `buque_vectorial` con ChromaDB y OpenCLIP.
+- Un embedding por buque a partir de su imagen `complete` de mayor ratio, usando la matrícula como id.
+- Validación de cobertura entre la base relacional y la vectorial.
+
 ## [Ejercicio 06]
 
 - Consultas con SQLAlchemy sobre los modelos.
