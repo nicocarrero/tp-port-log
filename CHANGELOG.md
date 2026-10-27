@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Ejercicio 04]
+
+- Implementación del modelo relacional con SQLAlchemy: Buque, Radar, Muelle, Movimiento y Evidencia.
+- Claves primarias, claves foráneas, relaciones y `__repr__` en cada modelo.
+- Función `procesar_fila_csv` que mapea una fila del CSV a las instancias del modelo.
+
 ## [Ejercicio 03]
 
 - Diseño del modelo lógico (Buque, Radar, Muelle, Movimiento y Evidencia) con diagrama entidad-relación y cardinalidades.
